@@ -1,2 +1,8 @@
-𝚆𝚎𝚕𝚌𝚘𝚖𝚎💛 | 🧷 𝚂𝚘𝚞𝚛𝚌𝚎 𝚜𝚒𝚝𝚎: QuarteTg.github.io |
-𝙱𝚢 𝚀𝚞𝚊𝚛𝚝𝚎💛
+# https://akrifisofficial.github.io/Akrifistg/mobile
+
+данный сайт создан специально чтобы делиться своими соц-сетями.
+
+## Авторы
+
+- [Quarte](https://github.com/QuarteJq) – Основная роль/вклад  
+- [AkrifisOfficial](https://github.com/AkrifisOfficial) – Основная роль/вклад  
